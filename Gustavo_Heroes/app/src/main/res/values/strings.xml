@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android MySQL CRUD</string>
+    <string name="materia">Desarrollo de aplicaciones 3</string>
+    <string name="alumno">Gustavo Castillo Nájera</string>
+    <string name="grupo">501 TIC</string>
+    <string name="practica">Practica: CRUD MysQL-Android</string>
+    <string name="ir_crud">Ir a CRUD</string>
+    <!-- DEFINIENDO EL ARRAY DEL SPINNER -->
+    <array name="teams">
+        <item>Avengers</item>
+        <item>Liga de la Justicia</item>
+        <item>X-Men</item>
+        <item>Los 4 fantasticos</item>
+    </array>
+</resources>
